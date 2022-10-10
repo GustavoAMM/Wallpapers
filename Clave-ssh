@@ -1,0 +1,3 @@
+Comando para crear una clave ssh
+
+ssh-keygen -t rsa -b 4096 -C "j.gustavo.m245@gmail.com"  
